@@ -144,7 +144,8 @@
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(15, 188);
+            this.label5.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.label5.Location = new System.Drawing.Point(210, 127);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(107, 21);
             this.label5.TabIndex = 12;
@@ -153,7 +154,8 @@
             // label6
             // 
             this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(15, 167);
+            this.label6.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.label6.Location = new System.Drawing.Point(210, 106);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(106, 21);
             this.label6.TabIndex = 11;
@@ -162,7 +164,8 @@
             // label7
             // 
             this.label7.AutoSize = true;
-            this.label7.Location = new System.Drawing.Point(15, 246);
+            this.label7.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.label7.Location = new System.Drawing.Point(15, 169);
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(133, 21);
             this.label7.TabIndex = 14;
@@ -171,7 +174,8 @@
             // label8
             // 
             this.label8.AutoSize = true;
-            this.label8.Location = new System.Drawing.Point(15, 225);
+            this.label8.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.label8.Location = new System.Drawing.Point(15, 148);
             this.label8.Name = "label8";
             this.label8.Size = new System.Drawing.Size(132, 21);
             this.label8.TabIndex = 13;
@@ -198,7 +202,8 @@
             // label_GecenSaat
             // 
             this.label_GecenSaat.AutoSize = true;
-            this.label_GecenSaat.Location = new System.Drawing.Point(154, 167);
+            this.label_GecenSaat.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.label_GecenSaat.Location = new System.Drawing.Point(349, 106);
             this.label_GecenSaat.Name = "label_GecenSaat";
             this.label_GecenSaat.Size = new System.Drawing.Size(50, 21);
             this.label_GecenSaat.TabIndex = 17;
@@ -207,7 +212,8 @@
             // label_KalanSaat
             // 
             this.label_KalanSaat.AutoSize = true;
-            this.label_KalanSaat.Location = new System.Drawing.Point(154, 188);
+            this.label_KalanSaat.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.label_KalanSaat.Location = new System.Drawing.Point(349, 127);
             this.label_KalanSaat.Name = "label_KalanSaat";
             this.label_KalanSaat.Size = new System.Drawing.Size(50, 21);
             this.label_KalanSaat.TabIndex = 18;
@@ -216,7 +222,8 @@
             // label_GecenDakika
             // 
             this.label_GecenDakika.AutoSize = true;
-            this.label_GecenDakika.Location = new System.Drawing.Point(154, 225);
+            this.label_GecenDakika.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.label_GecenDakika.Location = new System.Drawing.Point(154, 148);
             this.label_GecenDakika.Name = "label_GecenDakika";
             this.label_GecenDakika.Size = new System.Drawing.Size(50, 21);
             this.label_GecenDakika.TabIndex = 19;
@@ -225,7 +232,8 @@
             // label_KalanDakika
             // 
             this.label_KalanDakika.AutoSize = true;
-            this.label_KalanDakika.Location = new System.Drawing.Point(154, 246);
+            this.label_KalanDakika.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.label_KalanDakika.Location = new System.Drawing.Point(154, 169);
             this.label_KalanDakika.Name = "label_KalanDakika";
             this.label_KalanDakika.Size = new System.Drawing.Size(50, 21);
             this.label_KalanDakika.TabIndex = 20;
@@ -240,7 +248,7 @@
             // label_KalanSaniye
             // 
             this.label_KalanSaniye.AutoSize = true;
-            this.label_KalanSaniye.Location = new System.Drawing.Point(151, 308);
+            this.label_KalanSaniye.Location = new System.Drawing.Point(349, 169);
             this.label_KalanSaniye.Name = "label_KalanSaniye";
             this.label_KalanSaniye.Size = new System.Drawing.Size(50, 21);
             this.label_KalanSaniye.TabIndex = 24;
@@ -249,7 +257,7 @@
             // label_GecenSaniye
             // 
             this.label_GecenSaniye.AutoSize = true;
-            this.label_GecenSaniye.Location = new System.Drawing.Point(151, 287);
+            this.label_GecenSaniye.Location = new System.Drawing.Point(349, 148);
             this.label_GecenSaniye.Name = "label_GecenSaniye";
             this.label_GecenSaniye.Size = new System.Drawing.Size(50, 21);
             this.label_GecenSaniye.TabIndex = 23;
@@ -258,7 +266,7 @@
             // label11
             // 
             this.label11.AutoSize = true;
-            this.label11.Location = new System.Drawing.Point(12, 308);
+            this.label11.Location = new System.Drawing.Point(210, 169);
             this.label11.Name = "label11";
             this.label11.Size = new System.Drawing.Size(127, 21);
             this.label11.TabIndex = 22;
@@ -267,7 +275,7 @@
             // label12
             // 
             this.label12.AutoSize = true;
-            this.label12.Location = new System.Drawing.Point(12, 287);
+            this.label12.Location = new System.Drawing.Point(210, 148);
             this.label12.Name = "label12";
             this.label12.Size = new System.Drawing.Size(126, 21);
             this.label12.TabIndex = 21;
@@ -276,7 +284,7 @@
             // button_Cikis
             // 
             this.button_Cikis.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.button_Cikis.Location = new System.Drawing.Point(492, 334);
+            this.button_Cikis.Location = new System.Drawing.Point(477, 169);
             this.button_Cikis.Name = "button_Cikis";
             this.button_Cikis.Size = new System.Drawing.Size(107, 30);
             this.button_Cikis.TabIndex = 25;
@@ -288,7 +296,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 21F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(597, 363);
+            this.ClientSize = new System.Drawing.Size(584, 197);
             this.Controls.Add(this.button_Cikis);
             this.Controls.Add(this.label_KalanSaniye);
             this.Controls.Add(this.label_GecenSaniye);
@@ -317,7 +325,7 @@
             this.Margin = new System.Windows.Forms.Padding(6, 5, 6, 5);
             this.Name = "Form_Giris";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "İki Tarih Arası";
+            this.Text = "+";
             this.Load += new System.EventHandler(this.Form_Giris_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
